@@ -1,21 +1,41 @@
-# 🎓 University Academic Projects & Tasks
+🚀 Technical Portfolio & Project Showcase
+Welcome to my central repository! 💻 This space is dedicated to showcasing my technical journey, featuring a variety of projects, implementations, and core computing tasks I’ve developed.
 
-Welcome to my academic repository! This project serves as a centralized portfolio for my coursework and technical assignments at university.
+📂 Project Categories & Implementations
+🛠️ Software Development & Logic
+Overview: Implementation of core programming concepts and logic-driven applications.
 
-## 📂 Repository Structure
+Highlights:
 
-### 🎨 [Computer Graphics](./Computer-Graphics)
-* Assignments using **C++** and **OpenGL**.
-* Includes: Basic shapes rendering and 2D transformations (Rotation, Translation).
+🔹 Developing efficient solutions for complex problem-solving tasks.
 
-### 🤖 [AI Projects](./AI-Projects)
-* Artificial Intelligence implementations using **Python**.
-* Includes: 
-    * **Sokoban AI Solver:** Compares BFS, DFS, and A* algorithms.
+🔹 Building functional prototypes and system components.
 
-## 🛠️ Tech Stack
-* **Languages:** C++, Python.
-* **Tools:** Visual Studio, Git, OpenGL.
+🔹 Applying clean code principles across different programming languages.
 
----
-**Ali Nabil** *Computer Science Student*
+🧠 Algorithms & Computational Thinking
+Overview: Exploring data structures and algorithmic efficiency.
+
+Highlights:
+
+⚡ Implementation of search and optimization algorithms (e.g., BFS, DFS).
+
+🧩 Analyzing time and space complexity for various technical challenges.
+
+🔹 Practical application of theoretical computer science concepts.
+
+🌐 Systems & Infrastructure
+Overview: Hands-on work with system architecture and networking protocols.
+
+Highlights:
+
+📡 Configuring and managing network environments and communication standards.
+
+🔧 Working with low-level system operations and hardware-software interfacing.
+
+🛠️ Tech Stack & Tools
+Languages: C++, Python, Dart, Java.
+
+Core Expertise: Object-Oriented Programming (OOP), Data Structures, Networking.
+
+Tools: Git, GitHub, Firebase, Figma.
