@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KingdomRoads.vcxproj" Id="a3d34286-2f89-4557-82a0-d99d15981877" />
+</Solution>
